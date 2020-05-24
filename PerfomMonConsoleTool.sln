@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerfomMonConsoleTool", "PerfomMonConsoleTool\PerfomMonConsoleTool.csproj", "{553894C1-5682-49D3-AAC1-C6934847263B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{553894C1-5682-49D3-AAC1-C6934847263B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553894C1-5682-49D3-AAC1-C6934847263B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{553894C1-5682-49D3-AAC1-C6934847263B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553894C1-5682-49D3-AAC1-C6934847263B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A06CE64-7BDD-4391-A76F-F3A89820A21B}
+	EndGlobalSection
+EndGlobal
